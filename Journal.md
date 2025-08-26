@@ -9,4 +9,14 @@ I made the main frame and added little platform thingies for my two watches. I d
 
 <img width="1008" height="450" alt="Screenshot 2025-08-26 at 1 02 22 AM" src="https://github.com/user-attachments/assets/92d20788-0577-4508-8495-39736b618e3c" />
 
-**Total time spent:2.5**
+**Total time spent:2.5hrs**
+
+
+
+## August 27th: Added headphone stand!
+
+I added a headphone stand for my soundcore headphones! This was pretty easy except for the dimensions. 
+
+<img width="978" height="521" alt="Screenshot 2025-08-26 at 5 45 06 PM" src="https://github.com/user-attachments/assets/14d20cf3-1c17-461a-95bc-f109493ea710" />
+
+**Total time spent:40 minutes**
