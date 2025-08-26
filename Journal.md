@@ -21,5 +21,10 @@ I added a headphone stand for my soundcore headphones! This was pretty easy exce
 
 **Total time spent:40 minutes**
 
+## August 27th: Almost completed it!!
+
+Imma be honest, I did not think I could do this in this much time. I am happy with the current design but I might add a glasses holder. Tomorrow
 
 <img width="973" height="619" alt="Screenshot 2025-08-26 at 8 32 07 PM" src="https://github.com/user-attachments/assets/ad9ff028-b1e1-4af8-8de0-d5c947fc1873" />
+
+**Total time spent:2.75 hrs**
