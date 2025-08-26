@@ -20,3 +20,6 @@ I added a headphone stand for my soundcore headphones! This was pretty easy exce
 <img width="978" height="521" alt="Screenshot 2025-08-26 at 5 45 06 PM" src="https://github.com/user-attachments/assets/14d20cf3-1c17-461a-95bc-f109493ea710" />
 
 **Total time spent:40 minutes**
+
+
+<img width="973" height="619" alt="Screenshot 2025-08-26 at 8 32 07 PM" src="https://github.com/user-attachments/assets/ad9ff028-b1e1-4af8-8de0-d5c947fc1873" />
