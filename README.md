@@ -10,4 +10,4 @@
 - Glasses holder
 - Extra space
 
-<img width="1008" height="450" alt="481783980-92d20788-0577-4508-8495-39736b618e3c" src="https://github.com/user-attachments/assets/93eb7758-b25a-4834-9b83-f775c98fa3f6" />
+<img width="1182" height="729" alt="2" src="https://github.com/user-attachments/assets/92910158-7fe2-4677-a5cc-dc0f4385831c" />
